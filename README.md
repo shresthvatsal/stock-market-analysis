@@ -1,7 +1,7 @@
 # Stock Market Analysis 📈
 
 This repository contains a data science and machine learning project that performs stock market analysis using Python 🐍.
-To run on your own click on this collab link : https://colab.research.google.com/github/shresthvatsal/project-walkthrough/blob/master/stock/StockProject.ipynb
+To run on your own click on this collab link : [https://colab.research.google.com/github/shresthvatsal/project-walkthrough/blob/master/stock/StockProject.ipynb](https://colab.research.google.com/drive/1dF6ShDssRVlPeeRDcaSB6Fzp1fwHPtmI?usp=sharing)
 
 ## Project Description 📝
 
